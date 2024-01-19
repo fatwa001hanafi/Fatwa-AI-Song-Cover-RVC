@@ -4,8 +4,6 @@ All in One Repository: Youtube WAV Download, Separating Vocal, Splitting Audio, 
 ## Download YouTube WAV and Splitting Audio
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/Download_Youtube_WAV_and_Splitting_Audio.ipynb)
 
-## Training Without UI/Gradio, Prevent Banning (Colab Free)
-Read this [tutorial](https://noteardha.notion.site/noteardha/RVC-Training-69e4569b10ee429aae2a41bfb4bb18cc)
 ### Download Training Assets
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fatwa001hanafi/Fatwa-AI-Song-Cover-RVC/blob/main/Download_Training_Assets.ipynb)
 ### Run Training (Run Upper One First)
